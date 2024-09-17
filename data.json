@@ -1,6 +1,6 @@
 [
-    { "id": 1, "nombre": "Producto 1", "precio": 10.0, "stock": 5 },
-    { "id": 2, "nombre": "Producto 2", "precio": 20.0, "stock": 3 },
-    { "id": 3, "nombre": "Producto 3", "precio": 15.0, "stock": 0 }
+    { "id": 1, "nombre": "Arroz", "precio": 10.0, "stock": 5 },
+    { "id": 2, "nombre": "Ceda Dental", "precio": 20.0, "stock": 3 },
+    { "id": 3, "nombre": "Cafe", "precio": 15.0, "stock": 0 }
 ]
 
